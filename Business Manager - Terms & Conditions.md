@@ -39,6 +39,11 @@ In case of any unauthorized use of their Profile or any security breach, the use
 
 Additionally, the user consents to receiving communications from the Company, including but not limited to: (i) updates about the Company and its Services; (ii) promotional offers and services from the Company and its affiliated partners; and (iii) any other pertinent information related to the Services.
 
+#### 5.3 Offline use of the application
+Small Business Manager App's strong point lies in the way that it can be used in offline mode by default. This mode makes sure that all the data that you are storing in your application doesn't leave your device except for analytics purposes in anonymised form using standard third party services i.e. Firebase Analytics
+
+You own your data and it is maintained by you, in offline mode no backups are maintained which means if you reset your device, or if your device is stolen or corrupted or damaged or any such issues with devices you can lose your data. And the Developer cannot be held responsible for such scenarios and external factors.
+
 ### 6. Customer Consent and Communication
 #### 6.1. Customer Communication:
 You agree to inform your customers about your use of the App for recording transactions and obtaining their consent.
