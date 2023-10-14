@@ -1,5 +1,6 @@
 # Terms and Conditions of Use | Small Business Manager
 Updated On: [14th October 2023]
+
 Ashish Bhatt is an independent developer (reffered to as the "Developer/Owner"). He is the also known as the operator of mobile application known as the "Small Business Manager" (referred to as the "App"), accessible on platforms such as Google Play Store, iOS, and similar platforms. The App is referred to as the "Platform". The usage of this Platform and the services offered (as defined below) are governed by these terms and conditions ("Terms").
 
 The Company retains the right to modify these Terms by posting the new or updated version. Your continued usage and/or non-deletion of the Platform will indicate your agreement to such modifications. Thus, we encourage you to periodically review the Terms when accessing or using the Platform to stay informed about any changes that we may implement.
